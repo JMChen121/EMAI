@@ -159,6 +159,18 @@ We have marked the most important agents found by EMAI in the video playback.
 
 The videos are available in the directory: ```../Videos/```
 
+# Citation
+If you find this repository useful, please cite our [paper](https://openreview.net/forum?id=BsVsKXCaPj):
+```
+@inproceedings{chen2025-EMAI,
+title={Understanding Individual Agent Importance in Multi-Agent System via Counterfactual Reasoning},
+author={Chen, Jianming and Wang, Yawen and Wang, Junjie and Xie, Xiaofei and Hu, Jun and Wang, Qing and Xu, Fanjiang},
+booktitle={The 39th Annual AAAI Conference on Artificial Intelligence},
+year={2024},
+url={https://openreview.net/forum?id=BsVsKXCaPj}
+}
+```
+
 # Reference
 - https://github.com/hijkzzz/pymarl2/
 - https://github.com/marlbenchmark/on-policy/
