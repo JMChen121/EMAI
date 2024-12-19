@@ -154,11 +154,6 @@ bash scripts/eval/eval_mpe_spread.sh
 bash scripts/eval/eval_mpe_reference.sh
 ```
 
-# Visualization
-We have marked the most important agents found by EMAI in the video playback.
-
-The videos are available in the directory: ```../Videos/```
-
 # Citation
 If you find this repository useful, please cite our [paper](https://openreview.net/forum?id=BsVsKXCaPj):
 ```
